@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600B0D8D-0E60-4830-A588-34A79E04F806}|AspTypescriptApp\\AspTypescriptApp.csproj|c:\\users\\mulya\\source\\repos\\asptypescriptapp\\asptypescriptapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{600B0D8D-0E60-4830-A588-34A79E04F806}|AspTypescriptApp\\AspTypescriptApp.csproj|solutionrelative:asptypescriptapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600B0D8D-0E60-4830-A588-34A79E04F806}|AspTypescriptApp\\AspTypescriptApp.csproj|c:\\users\\mulya\\source\\repos\\asptypescriptapp\\asptypescriptapp\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{600B0D8D-0E60-4830-A588-34A79E04F806}|AspTypescriptApp\\AspTypescriptApp.csproj|solutionrelative:asptypescriptapp\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600B0D8D-0E60-4830-A588-34A79E04F806}|AspTypescriptApp\\AspTypescriptApp.csproj|c:\\users\\mulya\\source\\repos\\asptypescriptapp\\asptypescriptapp\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{600B0D8D-0E60-4830-A588-34A79E04F806}|AspTypescriptApp\\AspTypescriptApp.csproj|solutionrelative:asptypescriptapp\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\AspTypescriptApp\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "AspTypescriptApp\\wwwroot\\js\\app.js",
+              "ToolTip": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\AspTypescriptApp\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "AspTypescriptApp\\wwwroot\\js\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-22T05:48:57.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\AspTypescriptApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspTypescriptApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\AspTypescriptApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspTypescriptApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T03:54:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\AspTypescriptApp\\scripts\\app.ts",
+              "RelativeDocumentMoniker": "AspTypescriptApp\\scripts\\app.ts",
+              "ToolTip": "C:\\Users\\mulya\\source\\repos\\AspTypescriptApp\\AspTypescriptApp\\scripts\\app.ts",
+              "RelativeToolTip": "AspTypescriptApp\\scripts\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-22T03:51:17.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
